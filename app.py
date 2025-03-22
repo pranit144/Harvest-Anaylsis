@@ -8,7 +8,7 @@ app = Flask(__name__)
 app.secret_key = "harvest_analyzer_secret_key"  # Required for flash messages
 
 # Configure API key and generation parameters
-genai.configure(api_key="AIzaSyCizcswP6vlKDMdB3HRAtVi2JbifOpbPvA")
+genai.configure(api_key="")
 
 GENERATION_CONFIG = {
     "temperature": 1,
