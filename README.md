@@ -4,12 +4,7 @@
 Kisan Harvest Analyzer is a web application designed to help farmers determine if their crops are ready for harvest. By uploading a photo of their plant along with details about the plant type, variety, and planting date, farmers receive an instant assessment of harvest readiness.
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-<iframe
-	src="https://pranit144-harvestanaylis.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
+
 
 ## Features
 - **Plant Image Analysis**: Upload photos of your crops for AI-powered harvest readiness assessment
